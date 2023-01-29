@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinalQrEncoder</string>
+    <string name="pointsText">Points</string>
+</resources>
